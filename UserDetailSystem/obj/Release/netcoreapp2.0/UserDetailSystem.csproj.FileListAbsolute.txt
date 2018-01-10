@@ -1,0 +1,11 @@
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\bin\Release\netcoreapp2.0\UserDetailSystem.deps.json
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\bin\Release\netcoreapp2.0\UserDetailSystem.runtimeconfig.json
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\bin\Release\netcoreapp2.0\UserDetailSystem.runtimeconfig.dev.json
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\bin\Release\netcoreapp2.0\UserDetailSystem.dll
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\bin\Release\netcoreapp2.0\UserDetailSystem.pdb
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.csprojResolveAssemblyReference.cache
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.csproj.CoreCompileInputs.cache
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.AssemblyInfoInputs.cache
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.AssemblyInfo.cs
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.dll
+C:\Users\maheshig\source\repos\UserDetailSystem\UserDetailSystem\obj\Release\netcoreapp2.0\UserDetailSystem.pdb
